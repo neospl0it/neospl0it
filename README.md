@@ -1,4 +1,4 @@
-<img src="save.gif" style="width: 1920px; height: 700px;">
+<img src="save.gif" style="width: 1920px; height: 400px;">
 
 <h3 align="center">
   Welcome to Elliot Alderson's profile!
