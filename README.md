@@ -1,4 +1,4 @@
-<img src="amen.gif" style="max-width: 100%; height: auto;">
+<img src="save.gif">
 <h3 align="center">
   Welcome to Elliot Alderson's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
