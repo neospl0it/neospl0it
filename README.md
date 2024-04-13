@@ -236,7 +236,7 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
  <a href="https://f141ne0.github.io/f141ne0.github.io/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=f141ne0.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://github.com/f141ne0/regexscan"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=regexscan&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://f141ne0.github.io/Keylogger/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=Keylogger&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://f141ne0.github.io/Discord-RAT/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=CheatSheets-Hub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/f141ne0/Discord-RAT"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=Discord-RAT&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="center">
