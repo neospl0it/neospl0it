@@ -29,14 +29,9 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
   
   
   
-- 🔭 I’m currently working on [Research Work](https://f141ne0.github.io/Researcher/)
+- 🔭 I’m currently working on [Research Work](https://github.com/f141ne0/regexscan)
 
-- 👨‍💻 All of my projects are available at [Projects](https://f141ne0.github.io/My-Projects)
-
-- 💬 Ask me about **Linux, Python,AI, CMD, PowerShell**
-
-- 📄 Know about my [Experiences](https://f141ne0.github.io/#resume)
-- 👨‍💻 Hire Me as [Freelancer](http://f141ne0.com/)
+- 💬 Ask me about **Linux, Python, CMD, PowerShell**
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
  
