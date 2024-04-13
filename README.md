@@ -1,4 +1,4 @@
-<img src="save.gif" style="width: 1900px; height: 278px;">
+<img src="elliot.gif" style="width: 1900px; height: 270px;">
 
 <h3 align="center">
   Welcome to Elliot Alderson's profile!
@@ -25,6 +25,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   
 I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Capture the Flags (CTFs). I have done Advanced Diploma In Cyber Defence. I have experience in CTF Player at TryHackMe, navigating the cyber world with a fresh perspective. As a newcomer, I tackle Capture The Flag challenges, honing skills and embracing the dynamic landscape of cybersecurity.
 
+<br>
 <br>
 
   <img align="right" alt="GIF" src="https://github.com/f141ne0/f141ne0/blob/main/code.gif?raw=true" width="280" height="280" />
