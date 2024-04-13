@@ -33,6 +33,10 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 
 - 💬 Ask me about **Linux, Python, CMD, PowerShell**
 
+- 📄 Join On My [Discord](https://discord.gg/YSBfz3JnNE)
+
+- 👨‍💻 Follow Me On [x](https://twitter.com/AgentElli0t)
+
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
  
 
