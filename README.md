@@ -1,4 +1,4 @@
-<img src="elliot.gif" style="width: 1900px; height: 270px;">
+<img src="elliot.gif" style="width: 1900px; height: 300px;">
 
 <h3 align="center">
   Welcome to Elliot Alderson's profile!
