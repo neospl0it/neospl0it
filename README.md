@@ -233,11 +233,11 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 
 ## 📘 My top  projects
 <p align="left">
- <a href="https://f141ne0.github.io/The-Monitor/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=The-Monitor&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://f141ne0.github.io/f141ne0.github.io/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=f141ne0.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://github.com/f141ne0/Online-Thesis-Archiving-System"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=Online-Thesis-Archiving-System&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://f141ne0.github.io/CV-Baba/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=CV_Baba&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://f141ne0.github.io/regexscan/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=CV_Baba&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://need-linux.github.io/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=need-linux.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://f141ne0.github.io/3a5y-terminal/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=3a5y-terminal&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://f141ne0.github.io/Keylogger/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=Keylogger&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://CheatSheetsHub.github.io/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=f141ne0&repo=CheatSheets-Hub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
@@ -291,10 +291,3 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 <td colspan="3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=f141ne0&" alt="f141ne0" /></td>
 </tr>
 </table>
-  
- <p align="center">
-  <h1 align="center">Summary Of My Github Live Graph</h1>
-</p>  
-
-[![contributions](https://activity-graph.herokuapp.com/graph?username=f141ne0&theme=xcode&area=true)](https://github.com/f141ne0)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f141ne0&theme=github_dark)
