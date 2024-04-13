@@ -1,13 +1,13 @@
 [![MasterHead](00086-desk-anim-v0.3.gif)]()
 <h3 align="center">
-  Welcome to Elliot Alderson profile!
+  Welcome to Elliot Alderson's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Elliot+Alderson;I'm+Self-Ethical-Hacker;I+am+an+OSINT+enthusiast;I+am+a+Blogger"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Elliot+Alderson;I'm+Self+Taught+Ethical+Hacker;I+am+an+OSINT+Enthusiast;I+am+an+Blogger"></a>
   </h2>
  
 
@@ -22,7 +22,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Df141ne0%26type%3Djson"/></a>
  <br>
   
-Hi, I'm Elliot Alderson, a passionate self-taught Programmer, an open-source enthusiast, and a maintainer and National level hackathon winner🥇 🇨🇳. My passion for Systems lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
+I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Capture the Flags (CTFs). I have done Advanced Diploma In Cyber Defence. I have experience in CTF Player at TryHackMe, navigating the cyber world with a fresh perspective. As a newcomer, I tackle Capture The Flag challenges, honing skills and embracing the dynamic landscape of cybersecurity.
 
 
   <img align="right" alt="GIF" src="https://github.com/f141ne0/f141ne0/blob/main/new-Converted.gif?raw=true" width="500" height="320" />
