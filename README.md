@@ -1,4 +1,4 @@
-[![MasterHead](amen.gif)]()
+![MasterHead](amen.gif){width=1947 height=800}
 <h3 align="center">
   Welcome to Elliot Alderson's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
