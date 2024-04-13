@@ -41,6 +41,9 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 
 - 🧠 Thought **Revealing The Reality One Statistic At A Time**
  
+ <br>
+ <br>
+ <br>
 
 <h2 align="left" id="f141ne0">Certificates</h2>
 
