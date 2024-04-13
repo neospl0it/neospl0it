@@ -47,7 +47,7 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="106">
       <a href="#">
         <img src="./img/google.png" width="48" height="48" alt="#" />
       </a>
