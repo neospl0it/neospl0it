@@ -51,25 +51,25 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
       <a href="#">
         <img src="./img/google.png" width="48" height="48" alt="#" />
       </a>
-      <br>Foundations of Cybersecurity
+      <br>Cybersecurity
     </td>
-    <td align="center" width="96">
+    <td align="center" width="106">
       <a href="#">
         <img src="./img/google.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Introduction to Responsible AI
+      <br>Responsible AI
     </td>
-    <td align="center" width="96">
+    <td align="center" width="106">
       <a href="#">
         <img src="./img/cyberly.png" width="48" height="48" alt="c" />
       </a>
-      <br>SOC Analyst Level 1
+      <br>SOC L1
     </td>
-    <td align="center" width="96">
+    <td align="center" width="106">
       <a href="#">
         <img src="./img/ceh.png" width="48" height="48" alt="c" />
       </a>
-      <br>Certified Ethical Hacker (CEHv12)
+      <br>CEH V12
     </td>
      </tr>
 </table>
