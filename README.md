@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/f141ne0/f141ne0/blob/main/save.gif)
+<img src="save.gif" style="width: 1920px; height: 1080px;">
+
 <h3 align="center">
   Welcome to Elliot Alderson's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
