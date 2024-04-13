@@ -249,26 +249,6 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 <p align="center">
   <a href="https://github.com/f141ne0?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
-<h2>Read My Blogs</h2>
-    <table>
-        <tr>
-            <th>Blog Title</th>
-            <th>Blog URL</th>
-        </tr>
-        <tr>
-            <td>Cybersploit 1 Walkthrough</td>
-            <td><a href="https://f141ne0.github.io/posts/cybersploit-1-walkthrough/" target="_blank">Read Now</a></td>
-        </tr>
-        <tr>
-            <td>SMS Spoofing Like Mr. Robot</td>
-            <td><a href="https://f141ne0.github.io/posts/sms-spoofing-like-mr-robot/" target="_blank">Read Now</a></td>
-        </tr>
-        <tr>
-            <td>Understanding the Linux File System</td>
-            <td><a href="https://f141ne0.github.io/posts/linux-file-system/" target="_blank">Read Now</a></td>
-        </tr>
-    </table>
   
   <p align="center">
   <h1 align="center">Summary Of My Github Status</h1>
