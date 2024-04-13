@@ -29,7 +29,7 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
   
   
   
-- 🔭 I’m currently working on [Research Work](https://github.com/f141ne0/regexscan)
+- 🔭 I’m currently working on [Regexscan](https://github.com/f141ne0/regexscan)
 
 - 💬 Ask me about **Linux, Python, CMD, PowerShell**
 
@@ -38,6 +38,8 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 - 👨‍💻 Follow Me On [x](https://twitter.com/AgentElli0t)
 
 - ⚡ Fun fact **I Think I love my computer, more then myself.**
+
+- 🧠 Thought **Revealing The Reality One Statistic At A Time**
  
 
 <h2 align="left" id="f141ne0">Certificates</h2>
