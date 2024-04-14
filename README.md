@@ -85,7 +85,7 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 
 <h2 align="left" id="f141ne0">Dev-Hub</h2>
 
-> Progamming languages
+> Progamming Languages
 
 <table>
   <tr>
@@ -148,7 +148,7 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
     </tr>
 </table>
 
-> Frameworks and libraries
+> Frameworks and Libraries
 
 <table>
   <tr>
@@ -167,7 +167,7 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
     </tr>
 </table>
 
-> operating system
+> Operating System
 
 <table>
   <tr>
@@ -204,7 +204,7 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
     </tr>
 </table>
 
-> Software and tools
+> Software and Tools
 <table>
   <tr>
     <td align="center" width="96">
