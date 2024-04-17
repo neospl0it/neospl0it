@@ -8,15 +8,9 @@
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/ -->
 <h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Elliot+Alderson;I'm+Self+Taught+Ethical+Hacker;I+am+an+OSINT+Enthusiast;I+am+an+Blogger"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=24&pause=1000&color=44EDF7&center=true&random=false&width=435&lines=I+am+Self+Taught+Ethical+Hacker;I+am+a+OSINT+Enthusiast;I+am+a+Red+Teamer;I+am+a+Blogger+" alt="Typing SVG" /></a>
   </h2>
  
-
-<p align="center">
-  <a href="https://github.com/f141ne0">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/f141ne0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  
-</p>
 
   ![](https://komarev.com/ghpvc/?username=f141ne0&color=6aa6f8)
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
