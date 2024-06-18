@@ -1,4 +1,4 @@
-<img src="elliot.gif" style="width: 1900px; height: 300px;">
+<img src="https://pbs.twimg.com/profile_banners/1774458507175358464/1715447584/1500x500" style="width: 1900px; height: 300px;">
 
 <h3 align="center">
   Welcome to N E O's profile!
