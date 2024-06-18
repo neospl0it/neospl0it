@@ -16,8 +16,12 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Df141ne0%26type%3Djson"/></a>
  <br>
-  
-I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Capture the Flags (CTFs). I have done Advanced Diploma In Cyber Defence. I have experience in CTF Player at TryHackMe, navigating the cyber world with a fresh perspective. As a newcomer, I tackle Capture The Flag challenges, honing skills and embracing the dynamic landscape of cybersecurity.
+
+```diff
+- Self-taught Ethical Hacker
++ Passion for Bug Hunting and Capture the Flags (CTFs)
+
+```
 
 <br>
 <br>
