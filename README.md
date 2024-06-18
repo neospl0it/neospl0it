@@ -22,7 +22,7 @@ I'm Self-taught Ethical Hacker. My goal is to Passion for bug hunting and Captur
 <br>
 <br>
 
-  <img align="right" alt="GIF" src="https://github.com/f141ne0/f141ne0/blob/main/code.gif?raw=true" width="280" height="280" />
+  <img align="right" alt="GIF" src="https://github.com/f141ne0/f141ne0/blob/main/neo.png" width="280" height="280" />
   
   
   
