@@ -48,12 +48,9 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 
 <!-- project table -->
+----
   
-  <p align="center">
-  <h1 align="center">Summary Of My Github Status</h1>
-</p>
-  
-<br/>
+
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=f141ne0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
