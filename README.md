@@ -5,12 +5,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
-leetcode: https://leetcard.jacoblin.cool/ -->
-<h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=24&pause=1000&color=44EDF7&center=true&random=false&width=435&lines=I+am+Self+Taught+Ethical+Hacker;I+am+a+OSINT+Enthusiast;I+am+a+Red+Teamer;I+am+a+Blogger+" alt="Typing SVG" /></a>
-  </h2>
- 
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/f141ne0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="f141ne0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nijithwilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nijithwilson" height="30" width="40" /></a>
+<a href="https://discord.gg/YSBfz3JnNE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YSBfz3JnNE" height="30" width="40" /></a>
+</p>
+
 
   ![](https://komarev.com/ghpvc/?username=f141ne0&color=6aa6f8)
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
