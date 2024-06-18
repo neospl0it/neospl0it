@@ -1,7 +1,7 @@
 <img src="elliot.gif" style="width: 1900px; height: 300px;">
 
 <h3 align="center">
-  Welcome to Elliot Alderson's profile!
+  Welcome to N E O's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
