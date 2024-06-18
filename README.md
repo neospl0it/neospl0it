@@ -19,7 +19,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 ```diff
 - Self-taught Ethical Hacker
-+ Passion for Bug Hunting and Capture the Flags (CTFs)
++ Passion for OSINT and Capture the Flags (CTFs)
 
 ```
 
