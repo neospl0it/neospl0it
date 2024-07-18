@@ -1,18 +1,11 @@
-<img src="https://pbs.twimg.com/profile_banners/1774458507175358464/1715447584/1500x500" style="width: 1900px; height: 300px;">
 
-<h3 align="center">
-  Welcome to N E O's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
+
+## Social
+| <img src="https://freepnglogo.com/images/all_img/1691832708new-twitter-x-logo-white.png" alt="Twitter" width="80"/>  |  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="80"/>  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="80"/>  |  <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord" width="80"/>  |  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="80"/>  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="80"/>  |  <img src="https://pbs.twimg.com/profile_images/1789336398237204480/xBqlUgCE_400x400.jpg" alt="Blog" width="80"/>  |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| [**Twitter**](https://x.com/f141ne0)  |  [**LinkedIn**](https://www.linkedin.com/in/nijithwilson/)  |  [**Telegram**](https://t.me/project_entity)  |  [**Discord**](https://discord.gg/YSBfz3JnNE)  |  [**GitHub**](https://github.com/f141ne0)  |  [**Instagram**](https://instagram.com/ig.ne0)  |  [**Blog**](https://f141ne0.github.io/)  |
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/f141ne0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="f141ne0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nijithwilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nijithwilson" height="30" width="40" /></a>
-<a href="https://discord.gg/YSBfz3JnNE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YSBfz3JnNE" height="30" width="40" /></a>
-</p>
 
 
   ![](https://komarev.com/ghpvc/?username=f141ne0&color=6aa6f8)
@@ -25,35 +18,6 @@
 + Passion for OSINT and Capture the Flags (CTFs)
 
 ```
-
-<br>
-<br>
-
-  <img align="right" alt="GIF" src="https://github.com/f141ne0/f141ne0/blob/main/neo.png" width="280" height="280" />
-  
-  
-  
-- 🔭 I’m currently working on [Regexscan](https://github.com/f141ne0/regexscan)
-
-- 💬 Ask me about **Linux, Python, CMD, PowerShell**
-
-- 📄 Join On My [Discord](https://discord.gg/YSBfz3JnNE)
-
-- 👨‍💻 Follow Me On [x](https://twitter.com/AgentElli0t)
-
-- ⚡ Fun fact **I Think I love my computer, more then myself.**
-
-- 🧠 Thought **Revealing The Reality One Statistic At A Time**
- 
- <br>
- <br>
- <br>
-
-
-<!-- project table -->
-----
-  
-
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=f141ne0&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
