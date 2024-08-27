@@ -8,8 +8,7 @@ I’m a self-taught ethical hacker with a passion for OSINT and Capture the Flag
   <a href="https://www.linkedin.com/in/nijithwilson/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50"/></a>
   <a href="https://t.me/project_entity"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="50"/></a>
   <a href="https://discord.gg/YSBfz3JnNE"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord" width="50"/></a>
-  <a href="https://github.com/neospl0it"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50"/></a>
-  <a href="https://instagram.com/ig.ne0"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="50"/></a>
+  <a href="https://instagram.com/neosploit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="50"/></a>
   <a href="https://neospl0it.github.io/"><img src="https://pbs.twimg.com/profile_images/1826637490557759488/PBsOiGdi_400x400.jpg" alt="Blog" width="50"/></a>
 
   ![](https://komarev.com/ghpvc/?username=neospl0it&color=6aa6f8)
