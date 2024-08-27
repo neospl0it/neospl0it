@@ -17,7 +17,7 @@ I’m a self-taught ethical hacker with a passion for OSINT and Capture the Flag
  <br>
 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=neospl0it&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ ![](https://github-profile-trophy.vercel.app/?username=neospl0it&no-bg=true&no-frame=true)
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neospl0it&theme=transparent)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neospl0it&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neospl0it&theme=transparent)
