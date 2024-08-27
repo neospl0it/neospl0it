@@ -1,5 +1,4 @@
-![NIJITH WILSON](https://github.com/user-attachments/assets/d43abf50-ebfb-45e6-8a9c-2748a2af6139)
-
+![NIJITH WILSON (1)](https://github.com/user-attachments/assets/a70cc1ae-7482-4f6a-9860-b5f5f5be74f8)
 ## About Me
 I’m a self-taught ethical hacker with a passion for OSINT and Capture the Flags (CTFs). Constantly exploring the world of cybersecurity and learning new techniques.
 
