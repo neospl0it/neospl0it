@@ -19,12 +19,6 @@ I’m a self-taught ethical hacker with a passion for OSINT and Capture the Flag
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=neospl0it&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
- ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neospl0it&theme=2077)
-
- ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neospl0it&theme=2077)  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neospl0it&theme=2077)
-
-
-![Total Contributions](https://github-readme-stats.vercel.app/api/?username=neospl0it&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&theme=radical&custom_title=Total%20Contributions)
-
-
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neospl0it&theme=2077&utcOffset=8)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neospl0it&theme=transparent)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neospl0it&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neospl0it&theme=transparent)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neospl0it&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neospl0it&theme=transparent&utcOffset=8)
