@@ -1,4 +1,4 @@
-
+![NIJITH WILSON](https://github.com/user-attachments/assets/d43abf50-ebfb-45e6-8a9c-2748a2af6139)
 
 ## Social
 | <img src="https://freepnglogo.com/images/all_img/1691832708new-twitter-x-logo-white.png" alt="Twitter" width="80"/>  |  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="80"/>  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" width="80"/>  |  <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="Discord" width="80"/>  |  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="80"/>  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="80"/>  |  <img src="https://pbs.twimg.com/profile_images/1826637490557759488/PBsOiGdi_400x400.jpg" alt="Blog" width="80"/>  |
