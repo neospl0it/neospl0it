@@ -1,3 +1,4 @@
+![ready](https://github.com/user-attachments/assets/c75845b5-285b-4d11-a68e-374ba04fd8e6)
 
 ## About Me
 I’m a self-taught ethical hacker with a passion for OSINT and Capture the Flags (CTFs). Constantly exploring the world of cybersecurity and learning new techniques.
