@@ -1,4 +1,4 @@
-![ready](https://github.com/user-attachments/assets/96927fde-35e6-4437-a8ba-6cf9c5156696)
+![neosploit-github](https://github.com/user-attachments/assets/4d8bd1fc-686c-4b3d-a0b5-f00bedc88fbc)
 
 ## About Me
 I’m a self-taught ethical hacker with a passion for OSINT and Capture the Flags (CTFs). Constantly exploring the world of cybersecurity and learning new techniques.
