@@ -1,1 +1,1 @@
-![Graphic Design (1)](https://github.com/user-attachments/assets/a024cff5-c5e6-4483-9ea3-2369e0c3147b)
+![Graphic Design](https://github.com/user-attachments/assets/08dfe080-e0d2-4c44-85b8-5472bc229344)
